@@ -1,0 +1,12 @@
+window {
+	background-color: cadetblue; 
+}
+button {
+	background-color: olivedrab; 
+}
+button:hover {
+	background-color: goldenrod; 
+}
+button:active {
+	background-color: firebrick; 
+}
